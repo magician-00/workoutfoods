@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="none">
+  <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <rect fill="#FFFFFF" x="0" y="0" width="32" height="32"></rect>
+    <polygon id="Path" fill="#000000" fill-rule="nonzero"
+      points="3.44825181 6.26371251 9.00904498 6.26371251 8.40019901 16.9006688 13.9433445 6.26371251 19.4847252 6.26371251 19.8147373 16.8865122 24.4260837 6.26371251 29.9586406 6.26371251 21.1171383 25.2637125 15.3745737 25.2637125 14.9880889 13.3013394 8.74256457 25.2637125 3 25.2637125">
+    </polygon>
+  </g>
+</svg>

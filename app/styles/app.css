@@ -1,0 +1,53 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.product-card-border {
+  @apply border-b border-gray-200;
+}
+/* 
+.product-card-border::after {
+  content: '';
+  position: absolute;
+  right: 0;
+  top: 3%;
+  height: 94%;
+  width: 1px;
+  background-color: rgb(229 231 235);
+}
+
+@media (min-width: 1024px) {
+  .product-card-border:nth-child(3n):before {
+    content: '';
+  }
+} */
+
+.policies-html th,
+.policies-html td {
+  border: 1px dashed #ccc;
+  padding: 4px 16px;
+}
+
+.policies-html table {
+  margin-bottom: 8px;
+}
+
+.policies-html ul {
+  margin-left: 16px;
+  margin-bottom: 8px;
+  list-style-position: outside;
+  list-style-type: disc;
+}
+
+.policies-html h2 {
+  font-weight: 700;
+  margin-bottom: 8px;
+}
+
+.policies-html p {
+  margin-bottom: 8px;
+}
+
+select {
+  appearance: auto;
+}
